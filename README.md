@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Yosenn - Mi Sitio Personal</title>
+  <title>Jose Arias  - Mi Sitio Personal</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -37,11 +37,11 @@
 </head>
 <body>
   <div class="container">
-    <h1>Hola, soy Yosenn</h1>
-    <p>Soy un <span class="highlight">chico de 16 años</span> que está cursando bachillerato.</p>
-    <p>Me considero una persona <span class="highlight">responsable y amable</span>. Me encanta el <span class="highlight">basketball</span> y ya estoy cerca de graduarme.</p>
-    <p>No tengo novia, porque en este momento me enfoco totalmente en mis estudios. Mi meta es <span class="highlight">ganar el año, ser alguien en la vida y conseguir lo que yo quiero</span>.</p>
-    <p>Gracias por visitar mi sitio 😊</p>
+    <h1>Hola, soy Jose Alejo</h1>
+    <p>Soy un <span class="highlight">joven de 18 años</span> que está haciendo bachillerato.</p>
+    <p>Me considero una persona <span class="highlight">energica y amable</span>. adoro el <span class="highlight">basket</span> y dibujar, quiero graduarme pronto.</p>
+    <p>, quiciera ser el mejor en lo que me vaya a especializar, lo cual es diseño y remodelacion de interiores, espero ser exitoso y ser mejor de lo que soy, ser mas amable y con mas voluntad, apoyar a todos si tenfo la posibilidad y ser mejor persona, podee tener una familia honesta y honrada, demostrarle a todos de que se puede salir adelante si se tiene ganas   <span class="highlight">ganar el año, conseguir lo que yo quiero</span>.</p>
+    <p>Gracias por ver mi oagina, bienvenidos sean  </p>
   </div>
 </body>
 </html>
